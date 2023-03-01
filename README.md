@@ -7,4 +7,4 @@
 ![image](https://user-images.githubusercontent.com/86431761/222079713-8c8cbf83-f258-4ce4-81e6-8bb1a538190b.png)
 
 - 100점 만점으로 게임 종료 후 자신의 점수를 확인할 수 있습니다.
-- ![image](https://user-images.githubusercontent.com/86431761/222079740-d816a98c-810e-4daf-8981-f65f766c63c6.png)
+![image](https://user-images.githubusercontent.com/86431761/222079740-d816a98c-810e-4daf-8981-f65f766c63c6.png)
